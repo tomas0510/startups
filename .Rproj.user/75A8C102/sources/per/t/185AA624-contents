@@ -1,0 +1,6 @@
+---
+title: "EDA"
+author: "Tomás Bustamante Hernández"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
